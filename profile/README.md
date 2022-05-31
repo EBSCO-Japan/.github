@@ -1,12 +1,16 @@
-## Hi there 👋
+## EBSCO Information Services Japan
 
-<!--
+### 概要
+各種ドキュメント（主に参考訳）を提供します。
+各ドキュメントのREADMEもご確認ください。
 
-**Here are some ideas to get you started:**
+:book: OpenAthensのドキュメント　https://ebsco-japan.github.io/OpenAthensDocs/ [![Links (Fail Fast)](https://github.com/EBSCO-Japan/OpenAthensDoc/actions/workflows/links-fail-fast.yml/badge.svg)](https://github.com/EBSCO-Japan/OpenAthensDoc/actions/workflows/links-fail-fast.yml)
+[![pages-build-deployment](https://github.com/EBSCO-Japan/OpenAthensDoc/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/EBSCO-Japan/OpenAthensDoc/actions/workflows/pages/pages-build-deployment)
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+:honeybee: FOLIOのドキュメント　https://ebsco-japan.github.io/FolioDocs/
+[![pages-build-deployment](https://github.com/EBSCO-Japan/FolioDocs/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/EBSCO-Japan/FolioDocs/actions/workflows/pages/pages-build-deployment) [![Links (Fail Fast)](https://github.com/EBSCO-Japan/FolioDocs/actions/workflows/links-fail-fast.yml/badge.svg)](https://github.com/EBSCO-Japan/FolioDocs/actions/workflows/links-fail-fast.yml)
+
+
+
+### 参照
+* EBSCO Website https://www.ebsco.com/ja-jp
