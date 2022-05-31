@@ -12,5 +12,5 @@
 
 
 
-### 参照
+### ご案内
 * EBSCO Website https://www.ebsco.com/ja-jp
