@@ -8,5 +8,7 @@
 
 :honeybee: FOLIOのドキュメント　https://ebsco-japan.github.io/FolioDocs/
 
+:electric_plug: EBSCO Developer(EBSCOのAPI)のドキュメント　https://ebsco-japan.gitbook.io/ebsco-developer/
+
 ### ご案内
 * EBSCO Website https://www.ebsco.com/ja-jp
