@@ -12,3 +12,4 @@
 
 ### ご案内
 * EBSCO Website https://www.ebsco.com/ja-jp
+* Postmanのコレクション　[Explore](https://www.postman.com/explore) > 「ebsco」で検索 
