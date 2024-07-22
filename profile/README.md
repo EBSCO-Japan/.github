@@ -1,7 +1,7 @@
 ## EBSCO Information Services Japan
 
 ### 概要
-⭐Gssappsのバックアップ
+⭐Gssappsのバックアップ [https://github.com/EBSCO-Japan/gssapps](https://github.com/EBSCO-Japan/gssapps)
 
 📎各種ドキュメント（主に参考訳）
 各ドキュメントのREADMEもご確認ください。
